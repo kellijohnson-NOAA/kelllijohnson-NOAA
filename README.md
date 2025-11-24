@@ -24,7 +24,7 @@ I'm a Research Fisheries Biologist at the National Oceanic and Atmospheric Admin
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellijohnson-NOAA&show_icons=true&theme=default&hide_border=true)
+[![Kelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellijohnson-NOAA&show_icons=true&theme=default&hide_border=true "GitHub Statistics")](https://github.com/kellijohnson-NOAA)
 
 ## 🌟 Featured Repositories
 
